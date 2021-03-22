@@ -5,6 +5,7 @@ This is a really awesome website
 Updates made on main on GitHub before using rebase
 
 
-## Repository Purpose
+## Purpose
 
-This is just a readme file
+Thie purpose of this file is to provide examples
+on how to use Git and GitHub together
